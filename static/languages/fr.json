@@ -1,13 +1,11 @@
 {
-  "title": "Quels pays de l’UE offrent les meilleures perspectives d’emploi ?",
-  "subtitle": "La croissance future de l’emploi dans ces pays en 2022-2035 est estimée à 5,6 %.",
+  "title": "Dans quelle mesure l'exposition au bruit routier est-elle sous-estimée en Europe ?",
+  "subtitle": "En moyenne, l'exposition sous-estimée au bruit de la circulation routière concerne 35,2 % de la population dans les 27 pays de l'UE, la Slovaquie affichant le taux le plus élevé à 66 %, suivie de l'Italie à 56 %, tandis que le Portugal présente le taux le plus bas à 6 %.",
   "textNoteDescription": "Note",
-  "textNote": "sdchdc",
+  "textNote": "Ces valeurs indiquent la part supplémentaire estimée de la population de chaque pays susceptible d'être exposée au bruit routier, mais non entièrement prise en compte par les rapports officiels de la Directive Bruit dans l'environnement (DBE). Elles concernent les personnes affectées par le bruit des routes situées en dehors du champ d'application standard de la DBE, comme les routes secondaires ou celles situées hors des grandes agglomérations. Plus la valeur est élevée, plus la sous-estimation potentielle est importante par rapport à la population du pays. Ainsi, les pays représentés en rouge foncé peuvent présenter un problème d'exposition au bruit routier plus important que ne le laissent supposer les chiffres officiels.",
   "textSourceDescription": "Source",
-  "textSource": "sdcshdc",
+  "textSource": "Agence européenne pour l'environnement (2026)",
   "linkDataAccessDescription": "Accéder aux données",
-  "extraInfo_DE": "L'Allemagne accélère le déploiement des énergies renouvelables et vise 80 % d'énergie propre d'ici 2030",
-  "extraInfo_FR": "Le Parlement français approuve un important projet de loi sur la réforme de l'immigration au milieu de manifestations à l'échelle nationale",
   "legend1": "Aucune donnée disponible",
   "tooltipExtraInfoLabel": "Cliquez ici"
 }
