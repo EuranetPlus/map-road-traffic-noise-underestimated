@@ -1,13 +1,11 @@
 {
-  "title": "Quais países da UE oferecem as melhores perspectivas de emprego?",
-  "subtitle": "O crescimento futuro do emprego nesses países entre 2022 e 2035 é estimado em 5,6%.",
+  "title": "Quanta exposição ao ruído do tráfego rodoviário é subestimada na Europa?",
+  "subtitle": "Em média, a exposição subestimada ao ruído do tráfego rodoviário corresponde a 35,2% da população nos 27 países da UE, sendo a Eslováquia o país com a taxa mais elevada, de 66%, seguida pela Itália, com 56%, enquanto Portugal apresenta a taxa mais baixa, de 6%.",
   "textNoteDescription": "Observação",
-  "textNote": "SDCHDC",
+  "textNote": "Os valores mostram a parcela adicional estimada da população de cada país que pode estar exposta ao ruído do tráfego rodoviário, mas que não é totalmente capturada pelos relatórios oficiais da Diretiva sobre Ruído Ambiental (END). Eles se referem a pessoas afetadas pelo ruído de estradas fora do escopo padrão dos relatórios da END, como estradas menores ou estradas além das principais áreas urbanas. Um valor mais alto significa que a subestimação potencial é maior em relação à população do país, portanto, os países mostrados em vermelho mais escuro podem ter um problema oculto de exposição ao ruído do tráfego rodoviário maior do que os números oficiais sozinhos sugerem.\n",
   "textSourceDescription": "Fonte",
-  "textSource": "sdcshdc",
+  "textSource": "Agência Europeia do Ambiente (2026)",
   "linkDataAccessDescription": "Acesse os dados",
-  "extraInfo_DE": "Alemanha acelera implementação de energia renovável e tem como meta 80% de energia limpa até 2030",
-  "extraInfo_FR": "Parlamento francês aprova importante projeto de lei de reforma da imigração em meio a protestos em todo o país",
-  "legend1": "Não há dados disponíveis",
+  "legend1": "Não há dados disponíveis.",
   "tooltipExtraInfoLabel": "Clique aqui"
 }
