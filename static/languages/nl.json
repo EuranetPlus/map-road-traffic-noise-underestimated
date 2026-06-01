@@ -1,13 +1,11 @@
 {
-  "title": "Welke EU-landen bieden de beste werkgelegenheidsvooruitzichten?",
-  "subtitle": "De toekomstige werkgelegenheidsgroei in deze landen in de periode 2022-2035 wordt geschat op 5,6%.",
+  "title": "In welke mate wordt de blootstelling aan verkeerslawaai in Europa onderschat?",
+  "subtitle": "Gemiddeld wordt de blootstelling aan verkeerslawaai onderschat door 35,2% van de bevolking in de EU27-landen. Slowakije heeft het hoogste percentage met 66%, gevolgd door Italië met 56%, terwijl Portugal het laagste percentage heeft met 6%.",
   "textNoteDescription": "Opmerking",
-  "textNote": "sdchdc",
+  "textNote": "De waarden geven het geschatte extra aandeel van de bevolking van elk land weer dat mogelijk wordt blootgesteld aan verkeerslawaai, maar dat niet volledig wordt geregistreerd in de officiële rapportage onder de Milieulawaairichtlijn (END). Het gaat hierbij om mensen die hinder ondervinden van lawaai van wegen buiten het standaard rapportagegebied van de END, zoals kleinere wegen of wegen buiten grote stedelijke gebieden. Een hogere waarde betekent dat de potentiële onderschatting groter is in verhouding tot de bevolking van het land. Landen die in donkerrood zijn weergegeven, hebben mogelijk dus een groter verborgen probleem met blootstelling aan verkeerslawaai dan de officiële cijfers alleen doen vermoeden.\n\n",
   "textSourceDescription": "Bron",
-  "textSource": "sdcshdc",
+  "textSource": "Europees Milieuagentschap (2026)",
   "linkDataAccessDescription": "Toegang tot de gegevens",
-  "extraInfo_DE": "Duitsland versnelt uitrol van hernieuwbare energie, streeft naar 80% schone energie in 2030",
-  "extraInfo_FR": "Frans parlement keurt groot wetsvoorstel immigratiehervorming goed te midden van landelijke protesten",
   "legend1": "Geen gegevens beschikbaar",
   "tooltipExtraInfoLabel": "Klik hier"
 }
