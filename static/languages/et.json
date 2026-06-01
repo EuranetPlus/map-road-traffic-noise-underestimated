@@ -1,13 +1,11 @@
 {
-  "title": "Millised ELi riigid pakuvad parimaid töövõimalusi?",
-  "subtitle": "Nendes riikides on edaspidine tööhõive kasv aastatel 2022–2035 hinnanguliselt 5,6%.",
+  "title": "Kui palju liiklusmüraga kokkupuudet Euroopas alahinnatakse?",
+  "subtitle": "Keskmiselt on alahinnatud liiklusmüraga kokkupuude 35,2% EL 27 riikide elanikkonnast, kusjuures kõrgeim on Slovakkias 66%, millele järgneb Itaalia 56% ja madalaim Portugalis 6%.",
   "textNoteDescription": "Märkus",
-  "textNote": "sdchdc",
+  "textNote": "Väärtused näitavad iga riigi elanikkonna hinnangulist täiendavat osakaalu, kes võib kokku puutuda liiklusmüraga, kuid mida keskkonnamüra direktiivi (END) alusel esitatud ametlik aruandlus täielikult ei kajasta. Need viitavad inimestele, keda mõjutab müra, mis pärineb väljaspool END standardset aruandlust asuvatelt teedelt, näiteks väiksematelt teedelt või teedelt väljaspool suuri linnapiirkondi. Suurem väärtus tähendab, et potentsiaalne alahindamine on riigi elanikkonnaga võrreldes suurem, seega võib tumedama punasega tähistatud riikidel olla suurem varjatud liiklusmüraga kokkupuute probleem, kui ametlikud arvud üksi näitavad.",
   "textSourceDescription": "Allikas",
-  "textSource": "sdcshdc",
+  "textSource": "Euroopa Keskkonnaagentuur (2026)",
   "linkDataAccessDescription": "Juurdepääs andmetele",
-  "extraInfo_DE": "Saksamaa kiirendab taastuvenergia kasutuselevõttu, seab eesmärgiks 80% puhta energia kasutamise aastaks 2030",
-  "extraInfo_FR": "Prantsusmaa parlament kiitis üleriigiliste protestide taustal heaks immigratsioonireformi seaduse eelnõu",
-  "legend1": "Andmed puuduvad",
-  "tooltipExtraInfoLabel": "Klõpsake siin"
+  "legend1": "Andmed pole saadaval",
+  "tooltipExtraInfoLabel": "Kliki siia"
 }
