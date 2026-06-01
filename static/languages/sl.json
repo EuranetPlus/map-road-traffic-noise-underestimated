@@ -1,13 +1,11 @@
 {
-  "title": "Katere države EU ponujajo najboljše zaposlitvene možnosti?",
-  "subtitle": "Prihodnja rast zaposlenosti v teh državah v letih 2022–2035 je ocenjena na 5,6 %.",
+  "title": "Koliko je izpostavljenosti hrupu cestnega prometa v Evropi podcenjeno?",
+  "subtitle": "V povprečju je podcenjena izpostavljenost hrupu cestnega prometa 35,2 % prebivalstva v državah EU-27, pri čemer ima Slovaška najvišjo stopnjo s 66 %, sledi Italija s 56 %, Portugalska pa ima najnižjo stopnjo s 6 %.",
   "textNoteDescription": "Opomba",
-  "textNote": "sdchdc",
+  "textNote": "Vrednosti prikazujejo ocenjeni dodatni delež prebivalstva posamezne države, ki je lahko izpostavljen hrupu cestnega prometa, vendar ga uradno poročanje v skladu z Direktivo o okoljskem hrupu (END) ne zajema v celoti. Nanašajo se na ljudi, ki jih prizadene hrup s cest zunaj standardnega obsega poročanja END, kot so manjše ceste ali ceste zunaj večjih urbanih območij. Višja vrednost pomeni, da je morebitna podcenitev večja glede na prebivalstvo države, zato imajo države, prikazane s temnejšo rdečo barvo, lahko večji skriti problem izpostavljenosti hrupu cestnega prometa, kot kažejo sami uradni podatki.",
   "textSourceDescription": "Vir",
-  "textSource": "sdcshdc",
+  "textSource": "Evropska agencija za okolje (2026)",
   "linkDataAccessDescription": "Dostop do podatkov",
-  "extraInfo_DE": "Nemčija pospešuje uvedbo obnovljive energije, cilj je 80 % čiste energije do leta 2030",
-  "extraInfo_FR": "Francoski parlament je med protesti po vsej državi potrdil predlog zakona o veliki reformi priseljevanja",
-  "legend1": "Ni podatkov",
+  "legend1": "Ni na voljo podatkov",
   "tooltipExtraInfoLabel": "Kliknite tukaj"
 }
