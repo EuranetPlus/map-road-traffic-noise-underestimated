@@ -1,13 +1,11 @@
 {
-  "title": "Ktoré krajiny EÚ ponúkajú najlepšie vyhliadky na zamestnanie?",
-  "subtitle": "Budúci rast zamestnanosti v týchto krajinách v rokoch 2022-2035 sa odhaduje na 5,6 %.",
+  "title": "Do akej miery je v Európe podceňovaná expozícia hluku z cestnej dopravy?",
+  "subtitle": "V priemere je podhodnotená expozícia hluku z cestnej dopravy u 35,2 % populácie v krajinách EÚ-27, pričom Slovensko má najvyššiu mieru so 66 %, nasleduje Taliansko s 56 % a Portugalsko má najnižšiu mieru so 6 %.",
   "textNoteDescription": "Poznámka",
-  "textNote": "sdchdc",
+  "textNote": "Hodnoty zobrazujú odhadovaný dodatočný podiel obyvateľstva každej krajiny, ktorý môže byť vystavený hluku z cestnej dopravy, ale nie je plne zachytený v oficiálnych správach podľa smernice o environmentálnom hluku (END). Vzťahujú sa na ľudí postihnutých hlukom z ciest mimo štandardného rozsahu hlásenia END, ako sú menšie cesty alebo cesty za hlavnými mestskými oblasťami. Vyššia hodnota znamená, že potenciálne podhodnotenie je väčšie vo vzťahu k populácii krajiny, takže krajiny zobrazené tmavšou červenou farbou môžu mať väčší skrytý problém s vystavením hluku z cestnej dopravy, ako naznačujú samotné oficiálne údaje.",
   "textSourceDescription": "Zdroj",
-  "textSource": "sdcshdc",
+  "textSource": "Európska environmentálna agentúra (2026)",
   "linkDataAccessDescription": "Prístup k údajom",
-  "extraInfo_DE": "Nemecko urýchľuje zavádzanie energie z obnoviteľných zdrojov a do roku 2030 má za cieľ dosiahnuť 80 % čistej energie",
-  "extraInfo_FR": "Francúzsky parlament počas celonárodných protestov schválil návrh zákona o veľkej imigračnej reforme",
   "legend1": "Nie sú k dispozícii žiadne údaje",
   "tooltipExtraInfoLabel": "Kliknite sem"
 }
