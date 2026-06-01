@@ -1,13 +1,11 @@
 {
-  "title": "Kurios ES šalys siūlo geriausias įsidarbinimo perspektyvas?",
-  "subtitle": "Skaičiuojama, kad būsimas užimtumo augimas šiose šalyse 2022–2035 m. sieks 5,6 proc.",
+  "title": "Kiek kelių eismo triukšmo poveikis Europoje yra nepakankamai įvertinamas?",
+  "subtitle": "Vidutiniškai nepakankamai įvertintas kelių eismo triukšmo poveikis sudaro 35,2 % ES 27 šalių gyventojų, o Slovakijoje šis rodiklis yra didžiausias – 66 %, Italijoje – 56 %, o Portugalijoje – mažiausias – 6 %.",
   "textNoteDescription": "Pastaba",
-  "textNote": "sdchdc",
+  "textNote": "Šios vertės rodo apskaičiuotą papildomą kiekvienos šalies gyventojų dalį, kuri gali būti veikiama kelių eismo triukšmo, tačiau kuri nėra iki galo užfiksuota oficialiose ataskaitose pagal Aplinkos triukšmo direktyvą (END). Jos reiškia žmones, kuriems daro įtaką triukšmas iš kelių, nepatenkančių į standartinę END ataskaitų teikimo apimtį, pavyzdžiui, mažesnių kelių arba kelių už didžiųjų miestų teritorijų ribų. Didesnė vertė reiškia, kad galimas nepakankamas įvertinimas yra didesnis, palyginti su šalies gyventojų skaičiumi, todėl tamsesne raudona spalva pažymėtose šalyse paslėpto kelių eismo triukšmo poveikio problema gali būti didesnė, nei rodo vien oficialūs duomenys.",
   "textSourceDescription": "Šaltinis",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Pasiekite duomenis",
-  "extraInfo_DE": "Vokietija paspartina atsinaujinančios energijos diegimą ir siekia 80 % švarios energijos iki 2030 m.",
-  "extraInfo_FR": "Prancūzijos parlamentas, kilus protestams visoje šalyje, patvirtino pagrindinį imigracijos reformos įstatymo projektą",
+  "textSource": "Europos aplinkos agentūra (2026 m.)",
+  "linkDataAccessDescription": "Prieiga prie duomenų",
   "legend1": "Nėra duomenų",
-  "tooltipExtraInfoLabel": "Spauskite čia"
+  "tooltipExtraInfoLabel": "Spustelėkite čia"
 }
