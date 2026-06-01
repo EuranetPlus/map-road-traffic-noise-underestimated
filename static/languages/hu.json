@@ -1,13 +1,11 @@
 {
-  "title": "Mely uniós országok kínálják a legjobb foglalkoztatási kilátásokat?",
-  "subtitle": "A foglalkoztatás jövőbeni növekedése ezekben az országokban 2022 és 2035 között 5,6%-ra becsülhető.",
+  "title": "Mennyire becsülik alá a közúti zajterhelést Európában?",
+  "subtitle": "Az alulbecsült közúti zajterhelés átlagosan a lakosság 35,2%-át érinti az EU27 országaiban, Szlovákiában a legmagasabb az arány 66%-kal, ezt követi Olaszország 56%-kal, míg Portugáliában a legalacsonyabb 6%-kal.",
   "textNoteDescription": "Jegyzet",
-  "textNote": "sdchdc",
+  "textNote": "Az értékek az egyes országok lakosságának becsült további arányát mutatják, amely ki lehet téve a közúti közlekedési zajnak, de amelyet a környezeti zajról szóló irányelv (END) szerinti hivatalos jelentések nem teljes mértékben tartalmaznak. Azokra az emberekre vonatkoznak, akiket a standard END-jelentési hatókörön kívül eső utakról, például a kisebb utakról vagy a nagyobb városi területeken túli utakról származó zaj érint. A magasabb érték azt jelenti, hogy a potenciális alulbecslés nagyobb az ország lakosságához képest, így a sötétebb pirossal jelölt országokban nagyobb lehet a rejtett közúti közlekedési zajnak való kitettség problémája, mint amit a hivatalos adatok önmagukban sugallnak.",
   "textSourceDescription": "Forrás",
-  "textSource": "sdcshdc",
+  "textSource": "Európai Környezetvédelmi Ügynökség (2026)",
   "linkDataAccessDescription": "Hozzáférés az adatokhoz",
-  "extraInfo_DE": "Németország felgyorsítja a megújuló energia elterjedését, és 2030-ra a 80%-os tiszta energia elérését tűzi ki célul",
-  "extraInfo_FR": "A francia parlament országos tiltakozások közepette jóváhagyta a jelentős bevándorlási reformról szóló törvényjavaslatot",
-  "legend1": "Nincs adat",
+  "legend1": "Nincsenek elérhető adatok",
   "tooltipExtraInfoLabel": "Kattintson ide"
 }
