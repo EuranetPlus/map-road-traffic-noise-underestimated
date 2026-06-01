@@ -1,13 +1,11 @@
 {
-  "title": "Mitkä EU-maat tarjoavat parhaat työllisyysnäkymät?",
-  "subtitle": "Näissä maissa tulevaisuudessa työllisyyden kasvun arvioidaan olevan 5,6 % vuosina 2022-2035.",
-  "textNoteDescription": "Huom",
-  "textNote": "sdchdc",
+  "title": "Kuinka paljon tieliikenteen melulle altistumista aliarvioidaan Euroopassa?",
+  "subtitle": "Keskimäärin aliarvioitu tieliikenteen melualtistus vastaa 35,2 %:a väestöstä EU27-maissa. Korkein osuus on Slovakiassa, 66 %, seuraavaksi suurin Italiassa, 56 %, ja alhaisin Portugalissa, 6 %.",
+  "textNoteDescription": "Huomautus",
+  "textNote": "Arvot osoittavat kunkin maan väestön arvioidun lisäosuuden, joka saattaa altistua tieliikenteen melulle, mutta jota ei täysin oteta huomioon ympäristömeludirektiivin (END) mukaisessa virallisessa raportoinnissa. Ne viittaavat ihmisiin, joihin vaikuttaa melu END:n normaalin raportoinnin ulkopuolisilta teiltä, kuten pienemmiltä teiltä tai suurten kaupunkialueiden ulkopuolella olevilta teiltä. Korkeampi arvo tarkoittaa, että mahdollinen aliarviointi on suurempi suhteessa maan väestöön, joten tummemmalla punaisella merkityillä mailla voi olla suurempi piilevän tieliikenteen melualtistusongelma kuin pelkät viralliset luvut viittaavat.",
   "textSourceDescription": "Lähde",
-  "textSource": "sdcshdc",
+  "textSource": "Euroopan ympäristövirasto (2026)",
   "linkDataAccessDescription": "Käytä tietoja",
-  "extraInfo_DE": "Saksa nopeuttaa uusiutuvan energian käyttöönottoa ja tavoittelee 80 % puhdasta sähköä vuoteen 2030 mennessä",
-  "extraInfo_FR": "Ranskan parlamentti hyväksyi suuren maahanmuuttouudistuksen valtakunnallisten mielenosoitusten keskellä",
-  "legend1": "Tietoja ei ole saatavilla",
+  "legend1": "Ei tietoja saatavilla",
   "tooltipExtraInfoLabel": "Klikkaa tästä"
 }
