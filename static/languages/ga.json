@@ -1,13 +1,11 @@
 {
-  "title": "Cé na tíortha san AE a thairgeann na hionchais fostaíochta is fearr?",
-  "subtitle": "Meastar gur 5.6% an fás fostaíochta amach anseo sna tíortha seo in 2022-2035.",
+  "title": "Cé mhéad nochta do thorann tráchta bóthair atá faoi-mheasta san Eoraip?",
+  "subtitle": "Ar an meán, is ionann nochtadh do thorann tráchta bóthair atá tearcmheasta agus 35.2% den daonra ar fud thíortha an AE27, agus an ráta is airde ag an tSlóvaic ag 66%, agus an Iodáil ina diaidh sin ag 56%, agus an ráta is ísle ag an bPortaingéil ag 6%.",
   "textNoteDescription": "Nóta",
-  "textNote": "sdchdc",
+  "textNote": "Léiríonn na luachanna an sciar breise measta de dhaonra gach tíre a d'fhéadfadh a bheith nochta do thorann tráchta bóthair ach nach ngabhann tuairisciú oifigiúil faoin Treoir maidir le Torann Comhshaoil (END) leis go hiomlán. Tagraíonn siad do dhaoine a mbíonn tionchar ag torann ó bhóithre lasmuigh de raon feidhme caighdeánach tuairiscithe END orthu, amhail bóithre níos lú nó bóithre lasmuigh de mhórcheantair uirbeacha. Ciallaíonn luach níos airde go bhfuil an tearcmheastachán féideartha níos mó i gcomparáid le daonra na tíre, mar sin d'fhéadfadh fadhb nochta do thorann tráchta bóthair i bhfolach níos mó a bheith ag tíortha a thaispeántar i ndearg níos dorcha ná mar a thugann figiúirí oifigiúla leo féin le fios.",
   "textSourceDescription": "Foinse",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Faigh rochtain ar na sonraí",
-  "extraInfo_DE": "Luathaíonn an Ghearmáin Rolladh Amach Fuinnimh In-athnuaite, Dírítear 80% ar Chumhacht Ghlan faoi 2030",
-  "extraInfo_FR": "Formheasann Parlaimint na Fraince Bille um Athchóiriú an Mhór-Imirce i measc Agóidí ar fud na tíre",
+  "textSource": "Gníomhaireacht Chomhshaoil na hEorpa (2026)",
+  "linkDataAccessDescription": "Rochtain ar na sonraí",
   "legend1": "Níl aon sonraí ar fáil",
   "tooltipExtraInfoLabel": "Cliceáil anseo"
 }
