@@ -1,13 +1,11 @@
 {
-  "title": "¿Qué países de la UE ofrecen las mejores perspectivas de empleo?",
-  "subtitle": "Se estima que el crecimiento futuro del empleo en estos países en el período 2022-2035 será del 5,6%.",
+  "title": "¿En qué medida se subestima la exposición al ruido del tráfico rodado en Europa?",
+  "subtitle": "En promedio, la exposición subestimada al ruido del tráfico rodado equivale al 35,2% de la población en los 27 países de la UE, siendo Eslovaquia la que presenta la tasa más alta, con un 66%, seguida de Italia con un 56%, mientras que Portugal tiene la tasa más baja, con un 6%.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Los valores muestran la proporción adicional estimada de la población de cada país que podría estar expuesta al ruido del tráfico rodado, pero que no se refleja completamente en los informes oficiales de la Directiva sobre Ruido Ambiental (DNA). Se refieren a las personas afectadas por el ruido procedente de carreteras que quedan fuera del ámbito de aplicación de los informes estándar de la DANA, como carreteras secundarias o carreteras situadas fuera de las principales zonas urbanas. Un valor más alto indica una mayor subestimación potencial en relación con la población del país; por lo tanto, los países representados en rojo oscuro podrían tener un problema de exposición al ruido del tráfico rodado oculto mayor de lo que sugieren las cifras oficiales.",
   "textSourceDescription": "Fuente",
-  "textSource": "sdcshdc",
+  "textSource": "Agencia Europea de Medio Ambiente (2026)",
   "linkDataAccessDescription": "Acceder a los datos",
-  "extraInfo_DE": "Alemania acelera el despliegue de energía renovable y aspira a que el 80 % de su energía sea limpia en 2030",
-  "extraInfo_FR": "El Parlamento francés aprueba un importante proyecto de ley de reforma migratoria en medio de protestas a nivel nacional",
   "legend1": "No hay datos disponibles",
   "tooltipExtraInfoLabel": "haga clic aquí"
 }
