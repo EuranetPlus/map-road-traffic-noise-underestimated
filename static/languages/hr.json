@@ -1,13 +1,11 @@
 {
-  "title": "Koje zemlje EU-a nude najbolje izglede za zapošljavanje?",
-  "subtitle": "Budući rast zaposlenosti u tim zemljama u razdoblju 2022. – 2035. procjenjuje se na 5,6%.",
+  "title": "Koliko je izloženost buci cestovnog prometa podcijenjena u Europi?",
+  "subtitle": "U prosjeku, podcijenjena izloženost buci cestovnog prometa iznosi 35,2% stanovništva u zemljama EU27, pri čemu Slovačka ima najvišu stopu sa 66%, zatim Italija s 56%, dok Portugal ima najnižu stopu sa 6%.",
   "textNoteDescription": "Bilješka",
-  "textNote": "sdchdc",
+  "textNote": "Vrijednosti pokazuju procijenjeni dodatni udio stanovništva svake zemlje koji može biti izložen buci cestovnog prometa, ali nije u potpunosti obuhvaćen službenim izvješćima prema Direktivi o buci u okolišu (END). Odnose se na ljude pogođene bukom s cesta izvan standardnog opsega izvješćivanja END-a, kao što su manje ceste ili ceste izvan većih urbanih područja. Viša vrijednost znači da je potencijalno podcjenjivanje veće u odnosu na broj stanovnika zemlje, pa zemlje prikazane tamnijom crvenom bojom mogu imati veći skriveni problem izloženosti buci cestovnog prometa nego što to sugeriraju sami službeni podaci.\n",
   "textSourceDescription": "Izvor",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Pristupite podacima",
-  "extraInfo_DE": "Njemačka ubrzava uvođenje obnovljive energije, cilj je 80% čiste energije do 2030.",
-  "extraInfo_FR": "Francuski parlament odobrio veliki nacrt zakona o useljeničkoj reformi usred prosvjeda diljem zemlje",
+  "textSource": "Europska agencija za okoliš (2026.)",
+  "linkDataAccessDescription": "Pristup podacima",
   "legend1": "Nema dostupnih podataka",
   "tooltipExtraInfoLabel": "Kliknite ovdje"
 }
