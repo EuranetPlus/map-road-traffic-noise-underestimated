@@ -1,13 +1,11 @@
 {
-  "title": "Care țări UE oferă cele mai bune perspective de angajare?",
-  "subtitle": "Creșterea viitoare a ocupării forței de muncă în aceste țări în perioada 2022-2035 este estimată la 5,6%.",
+  "title": "Cât de mult este subestimată expunerea la zgomotul traficului rutier în Europa?",
+  "subtitle": "În medie, expunerea subestimată la zgomotul traficului rutier reprezintă 35,2% din populația din țările UE-27, Slovacia având cea mai mare rată, de 66%, urmată de Italia cu 56%, în timp ce Portugalia are cea mai mică rată, de 6%.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Valorile arată ponderea suplimentară estimată a populației fiecărei țări care poate fi expusă zgomotului traficului rutier, dar nu este pe deplin surprinsă de raportarea oficială în temeiul Directivei privind zgomotul ambiental (END). Acestea se referă la persoanele afectate de zgomotul provenit de pe drumurile din afara domeniului de aplicare standard de raportare END, cum ar fi drumurile mai mici sau drumurile din afara zonelor urbane majore. O valoare mai mare înseamnă că potențiala subestimare este mai mare în raport cu populația țării, astfel încât țările afișate cu roșu mai închis pot avea o problemă ascunsă de expunere la zgomotul traficului rutier mai mare decât sugerează cifrele oficiale.",
   "textSourceDescription": "Sursă",
-  "textSource": "sdcshdc",
+  "textSource": "Agenția Europeană de Mediu (2026)",
   "linkDataAccessDescription": "Accesați datele",
-  "extraInfo_DE": "Germania accelerează lansarea energiei regenerabile, țintește 80% energie curată până în 2030",
-  "extraInfo_FR": "Parlamentul francez aprobă un proiect de lege major de reformă a imigrației pe fondul protestelor la nivel național",
-  "legend1": "Nu există date disponibile",
+  "legend1": "Nu sunt disponibile date",
   "tooltipExtraInfoLabel": "Click aici"
 }
