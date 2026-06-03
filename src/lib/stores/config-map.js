@@ -1,7 +1,8 @@
 import { writable } from 'svelte/store';
+
 export const mapConfig = writable({
-  "title": "How much road traffic noise exposure is underestimated in Europe?",
-  "subtitle": "On average, underestimated road traffic noise exposure equals 35.2% of the population across EU27 countries, with Slovakia having the highest rate at 66%, followed by Italy at 56%, whilst Portugal has the lowest rate at 6%.",
+  "title": "To what extent is the noise from road traffic underestimated in Europe?",
+  "subtitle": "More than a third of people across the EU are exposed to more noise than they think. This is especially true in Slovakia, where 66% of people underestimate the noise, followed by Italy at 56%. ",
   "colourSchemeClasses": 7,
   "data": "country,id,value,extraInfo,text_content,link_text,link_url_target,audio_url_1,audio_url_2,audio_url_3,image_url_source,image_url_target,video_url\nAustria,AT,0.470,FALSE,,,,,,,,,\nBelgium,BE,0.350,FALSE,,,,,,,,,\nBulgaria,BG,0.210,FALSE,,,,,,,,,\nCyprus,CY,0.370,FALSE,,,,,,,,,\nCzechia,CZ,0.390,FALSE,,,,,,,,,\nGermany,DE,0.490,FALSE,,,,,,,,,\nDenmark,DK,0.280,FALSE,,,,,,,,,\nEstonia,EE,0.380,FALSE,,,,,,,,,\nGreece,EL,0.410,FALSE,,,,,,,,,\nSpain,ES,0.290,FALSE,,,,,,,,,\nFinland,FI,0.320,FALSE,,,,,,,,,\nFrance,FR,0.350,FALSE,,,,,,,,,\nCroatia,HR,0.430,FALSE,,,,,,,,,\nHungary,HU,0.410,FALSE,,,,,,,,,\nIreland,IE,0.320,FALSE,,,,,,,,,\nItaly,IT,0.560,FALSE,,,,,,,,,\nLithuania,LT,0.400,FALSE,,,,,,,,,\nLuxembourg,LU,0.320,FALSE,,,,,,,,,\nLatvia,LV,0.160,FALSE,,,,,,,,,\nMalta,MT,0.090,FALSE,,,,,,,,,\nNetherlands,NL,0.500,FALSE,,,,,,,,,\nPoland,PL,0.230,FALSE,,,,,,,,,\nPortugal,PT,0.060,FALSE,,,,,,,,,\nRomania,RO,0.350,FALSE,,,,,,,,,\nSweden,SE,0.220,FALSE,,,,,,,,,\nSlovenia,SI,0.490,FALSE,,,,,,,,,\nSlovakia,SK,0.660,FALSE,,,,,,,,,",
   "parsedData": [
@@ -440,8 +441,8 @@ export const mapConfig = writable({
   "customUnitLabel": "",
   "tooltipExtraInfoLabel": "Click here",
   "translate": {
-    "title": "How much road traffic noise exposure is underestimated in Europe?",
-    "subtitle": "On average, underestimated road traffic noise exposure equals 35.2% of the population across EU27 countries, with Slovakia having the highest rate at 66%, followed by Italy at 56%, whilst Portugal has the lowest rate at 6%.",
+    "title": "To what extent is the noise from road traffic underestimated in Europe?",
+    "subtitle": "More than a third of people across the EU are exposed to more noise than they think. This is especially true in Slovakia, where 66% of people underestimate the noise, followed by Italy at 56%. ",
     "textNoteDescription": "Note",
     "textNote": "The values show the estimated additional share of each country’s population that may be exposed to road traffic noise but is not fully captured by official reporting under the Environmental Noise Directive (END). They refer to people affected by noise from roads outside the standard END reporting scope, such as smaller roads or roads beyond major urban areas. A higher value means that the potential underestimation is larger in relation to the country’s population, so countries shown in darker red may have a greater hidden road traffic noise exposure problem than official figures alone suggest.\n",
     "textSourceDescription": "Source",
